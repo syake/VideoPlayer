@@ -23,7 +23,7 @@ package
 	[SWF(width="960", height="640", backgroundColor=0x000000)]
 	public class VideoPlayer extends Sprite implements IUISeekView
 	{
-		static private const VIDEO_URL:String = "http://syake.github.com/VideoStreamExamples/1kuCek4TRK8.flv";
+		static private const VIDEO_URL:String = "http://syake.github.com/VideoPlayer/1kuCek4TRK8.flv";
 		
 		// --- instance
 		public var video:Video;
